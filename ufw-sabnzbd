@@ -1,0 +1,4 @@
+[Synergy]
+title=Sabnzbd
+description=A web-interface based binary newsgrabber with NZB file support
+ports=8080/tcp
