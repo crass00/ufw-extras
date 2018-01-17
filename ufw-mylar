@@ -1,0 +1,4 @@
+[Mylar]
+title=Mylar
+description=Automated Comic Book downloader
+ports=8090/tcp
