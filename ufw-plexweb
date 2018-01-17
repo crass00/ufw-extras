@@ -1,0 +1,4 @@
+[Plex Web]
+title=PlexWeb
+description=Web interface for Plex Media Server
+ports=32400/tcp
