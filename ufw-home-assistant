@@ -1,0 +1,4 @@
+[HomeAssistant]
+title=Home Assistant
+description=A home automation platform
+ports=8123/tcp
